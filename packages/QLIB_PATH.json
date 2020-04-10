@@ -1,0 +1,11 @@
+{
+    "env" : 
+    [
+        {
+            "QLIB" : 
+            {
+                "value": "X:\vfx_tools\qLib-0.2.143",
+            }
+        }
+    ]
+}

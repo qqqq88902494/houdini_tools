@@ -1,0 +1,12 @@
+{
+    "env" : 
+    [
+        {
+            "HOUDINI_PATH" : 
+            {
+                "value": "X:/HOUDINI_PATH_TEST",
+                "method": "append"
+            }
+        }
+    ]
+}
